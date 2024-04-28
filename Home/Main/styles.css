@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="x/icon" href="../Media/FSRPC - CCR.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>FSRPC: An ER:LC private server</title>
+</head>
+<body>
+    
+
+    <nav>
+        <div class="navigation">
+            <div class="logo">
+                <a href="/Home/Main/index.html"><img src="../Media/FSRPC - Cropped.png" width="150px"></a>
+            </div>
+            <div class="mid-buttons">
+                <a href="/Staff-Count/Main/">Staff</a> | <a href="/Member-Count/Main/">Members</a> | <a href="https://melonly.xyz/forms/7185109689963646976">Apply</a> | <a href="https://discord.com/channels/1200335443854639114/1228922760072269965">Support</a>
+            </div>
+            <div class="side-buttons">
+                <a href="https://discord.gg/PGekk8HjC3
+                "><button><i class='bx bxl-discord-alt' style='color:#ffffff'  ></i></button></a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-content">
+        <h1>About us</h1>
+        <p><span>Florida State Roleplay</span>, a vibrant and engaging <span>roleplay community</span>
+            rooted in the heart of <span>Florida</span>! Our mission is to deliver an
+            <span>unparalleled</span> and <span>immersive experience</span> to all our valued
+            players. At <span>Florida State Roleplay</span>, we go the <span>extra mile</span> to create an
+            unforgettable <span>unique</span> and <span>realistic roleplay experience</span>.</p>
+    </div>
+</body>
+</html>
